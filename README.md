@@ -16,7 +16,7 @@
 ## 📌 Featured Projects  
 🔹 **Image Classification using CNN** - Deep learning-based image recognition model  
 🔹 **Sentiment Analysis** - NLP model to analyze user reviews  
-🔹 **Predictive Analytics** - Predictive analytics model
+🔹 **Predictive Analytics** - Predictive analytics model  
 🔹 **Recommendation System** - Built using Content-Based & Collaborative Filtering  
 
 Check out my repositories for more! 📂  
