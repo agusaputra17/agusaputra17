@@ -14,12 +14,11 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 **Image Classification using CNN** - Deep learning-based image recognition model  
-🔹 **Sentiment Analysis** - NLP model to analyze user reviews  
-🔹 **Predictive Analytics** - Predictive analytics model  
-🔹 **Recommendation System** - Built using Content-Based & Collaborative Filtering  
+🔹 **[Banking Data Customer Prediction Workflow](https://github.com/agusaputra17/Workflow-CI)** - Developed a workflow for customer prediction on banking datasets, utilizing MLflow for experiment tracking and Docker for environment consistency.  
+🔹 **[Air Quality Index Prediction](https://github.com/agusaputra17/Applied-Machine-Learning-Course/tree/main/Predictive%20Analytics)** - Developed predictive analytics using LSTM to forecast air quality index trends.    
+🔹 **[Anime Recommendation System](https://github.com/agusaputra17/Applied-Machine-Learning-Course/tree/main/Recomendation%20System)** - Built a recommendation system using content-based filtering and collaborative filtering to recommend anime based on user preferences.     
 
-Check out my repositories for more! 📂  
+Check out [here](https://github.com/agusaputra17/My-projects) for more! 📂  
 
 ---
 
