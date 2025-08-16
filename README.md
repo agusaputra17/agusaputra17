@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 | Project | Description |
 | ----------- | ----------- |
 | [Banking Data Customer Prediction Workflow](https://github.com/agusaputra17/Workflow-CI) | Developed a workflow for customer prediction on banking datasets, utilizing MLflow for experiment tracking and Docker for environment consistency. |
@@ -18,7 +18,7 @@ Check out [here](https://github.com/agusaputra17/My-projects) for more! 📂
 
 ---
 
-## 📫 Connect with Me  
+### 📫 Connect with Me  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agus-saputra-kambea)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agussaputrakambea@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guss_kambea/)
