@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Agus Saputra Kambea 
 
-🚀 Machine Learning & Web Development Enthusiast  
 🎓 Fresh Graduate in Informatics Engineering  
 💡 Passionate about **ML, AI, and Scalable Web Solutions**  
 🔍 Currently exploring **Machine Learning & Artificial Intelligence**   
